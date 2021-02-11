@@ -6,4 +6,3 @@ edition = "2018"
 
 [dependencies]
 anyhow = "1.0.38"
-rustpython-vm = { git = "https://github.com/RustPython/RustPython" }
